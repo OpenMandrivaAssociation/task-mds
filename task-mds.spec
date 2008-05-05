@@ -16,8 +16,8 @@ Requires:	python-mmc-samba
 Requires:	python-mmc-mail
 Requires:	python-mmc-network
 Requires:	python-mmc-proxy
-Provides:	mds
-Obsoletes:	mds
+Provides:	mds = %version
+Obsoletes:	mds <= 2.2.0
 BuildArch:	noarch
 Buildroot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
