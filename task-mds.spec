@@ -1,7 +1,7 @@
 Summary:	Meta package for the Mandriva Directory Server
 Name:		task-mds
 Version:	2.4.0
-Release:	7
+Release:	8
 License:	GPL
 Group:		System/Servers
 URL:		http://mds.mandriva.org/
