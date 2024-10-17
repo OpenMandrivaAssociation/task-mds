@@ -4,7 +4,7 @@ Version:	2.4.0
 Release:	14
 License:	GPL
 Group:		System/Servers
-URL:		http://mds.mandriva.org/
+URL:		https://mds.mandriva.org/
 Requires:	mmc-agent >= 3.0.0
 Requires:	mmc-web-base >= 3.0.0
 Requires:	mmc-web-ppolicy >= 3.0.0
